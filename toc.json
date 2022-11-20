@@ -1,195 +1,22 @@
 [
     {
-        "caption":"1. Getting Started with the IDE",
-        "url":"#/debug/3ae10b26072cad5b/docs/1-1-creating-a-new-project",
-        "children":[
-            {
-                "caption":"1.1. Creating a New Project",
-                "url":"#/debug/3ae10b26072cad5b/docs/1-1-creating-a-new-project"
-            },
-            {
-                "caption":"1.2. IDE Overview",
-                "url":"#/debug/3ae10b26072cad5b/docs/1-2-ide-overview",
-                "children":[
-                    {
-                        "caption":"1.2.1. Left Toolbar",
-                        "url":"#/debug/3ae10b26072cad5b/docs/1-2-1-left-toolbar"
-                    },
-                    {
-                        "caption":"1.2.2. Top Toolbar",
-                        "url":"#/debug/3ae10b26072cad5b/docs/1-2-2-top-toolbar",
-                        "children":[
-                            {
-                                "caption":"1.2.2.1. App Development Toolbar Buttons",
-                                "url":"#/debug/3ae10b26072cad5b/docs/1-2-2-1-app-development-toolbar-buttons"
-                            },
-                            {
-                                "caption":"1.2.2.2. API Documentation Toolbar Buttons",
-                                "url":"#/debug/3ae10b26072cad5b/docs/1-2-2-2-api-doc-toolbar-buttons"
-                            }
-                        ]
-                    }
-
-                ]
-            },
-            {
-                "caption":"1.3. IDE Features",
-                "url":"#/debug/3ae10b26072cad5b/docs/1-3-1-create-new-item",
-                "children":[
-                    {
-                        "caption":"1.3.1. Create new item dialog box",
-                        "url":"#/debug/3ae10b26072cad5b/docs/1-3-1-create-new-item"
-                    },
-                    {
-                        "caption":"1.3.2. Running the selected API",
-                        "url":"#/debug/3ae10b26072cad5b/docs/1-3-2-running-selected-api"
-                    },
-                    {
-                        "caption":"1.3.3. Running the frontend application",
-                        "url":"#/debug/3ae10b26072cad5b/docs/1-3-3-runnin-frontned-app"
-                    },
-                    {
-                        "caption":"1.3.4. Compile errors",
-                        "url":"#/debug/3ae10b26072cad5b/docs/1-3-4-compile-errors"
-                    }
-                ]
-            },
-            {
-                "caption":"1.4. Deploying your API",
-                "url":"#/debug/3ae10b26072cad5b/docs/1-4-deploy-api",
-                "children":[
-                    {
-                        "caption":"1.4.1. Creating a new Environment",
-                        "url":"#/debug/3ae10b26072cad5b/docs/1-4-1-creating-environment"
-                    }
-                ]
-            }
-        ]
+        "caption":"C# SDK Tutorial",
+        "url":"#/debug/3ae10b26072cad5b/docs/1-csharpsdk",
+        "children":[]
     },
     {
-        "caption":"2. Building your logic with Blocks",
-        "url":"#/debug/3ae10b26072cad5b/docs/2-1-1-block-types",
-        "children":[
-            {
-                "caption":"2.1. Identifying Blocks",
-                "url":"#/debug/3ae10b26072cad5b/docs/2-1-1-block-types",
-                "children":[
-                    {
-                        "caption":"2.1.1. Block types",
-                        "url":"#/debug/3ae10b26072cad5b/docs/2-1-1-block-types"
-                    },
-                    {
-                        "caption":"2.1.2. Block Colors",
-                        "url":"#/debug/3ae10b26072cad5b/docs/2-1-2-block-colors"
-                    },
-                    {
-                        "caption":"2.1.3. Toolbar Categories",
-                        "url":"#/debug/3ae10b26072cad5b/docs/2-1-3-toolbar-categories"
-                    }
-                ]
-            },
-            {
-                "caption":"2.2. Using Blocks",
-                "url":"#/debug/3ae10b26072cad5b/docs/2-2-using-blocks"
-            },
-            {
-                "caption":"2.3. Type System in NoCodeXpress Engine",
-                "url":"#/debug/3ae10b26072cad5b/docs/2-3-type-system"
-            }
-        ]
+        "caption":"Python SDK Tutorial",
+        "url":"#/debug/3ae10b26072cad5b/docs/2-pythonsdk",
+        "children":[]
     },
     {
-        "caption":"3. Developing APIs",
-        "url":"#/debug/3ae10b26072cad5b/docs/3-developing-apis",
-        "children":[
-            {
-                "caption":"3.1. Running and Debugging your API Endpoint",
-                "url":"#/debug/3ae10b26072cad5b/docs/3-1-running-and-debugging"
-            },
-            {
-                "caption":"3.2. Securing your APIs",
-                "url":"#/debug/3ae10b26072cad5b/docs/3-2-securing-apis"
-            }
-        ]
+        "caption":"JavaScript SDK",
+        "url":"#/debug/3ae10b26072cad5b/docs/3-jssdk",
+        "children":[]
     },
     {
-        "caption":"4. Using Relational Databases",
-        "url":"#/debug/3ae10b26072cad5b/docs/4-1-creating-schema-and-entities",
-        "children":[
-            {
-                "caption":"4.1. Creating the Schema and Entities",
-                "url":"#/debug/3ae10b26072cad5b/docs/4-1-creating-schema-and-entities"
-            },
-            {
-                "caption":"4.2. Configuring Database Connection",
-                "url":"#/debug/3ae10b26072cad5b/docs/4-2-configuring-connection"
-            },
-            {
-                "caption":"4.3. Entity Relationships with J-R (Json-Relational) Mapping",
-                "url":"#/debug/3ae10b26072cad5b/docs/4-3-j-r-mapping"
-            },
-            {
-                "caption":"4.4. Updating Database Structure from Diagrams",
-                "url":"#/debug/3ae10b26072cad5b/docs/4-4-updating-db-structure"
-            },
-            {
-                "caption":"4.5. Retrieving Data from Database",
-                "url":"#/debug/3ae10b26072cad5b/docs/4-5-retrieving-data"
-            }
-        ]
-    },
-    {
-        "caption":"5. Designing User Interfaces (UIs)",
-        "url":"#/debug/3ae10b26072cad5b/docs/5-1-ui-editor-features",
-        "children":[
-            {
-                "caption":"5.1. UI Editor Features",
-                "url":"#/debug/3ae10b26072cad5b/docs/5-1-ui-editor-features"
-            },
-            {
-                "caption":"5.2. Tool Windows Related to UIs",
-                "url":"#/debug/3ae10b26072cad5b/docs/5-2-tool-windows-related-to-ui"
-            },
-            {
-                "caption":"5.3. Binding Data With MVVM Pattern",
-                "url":"#/debug/3ae10b26072cad5b/docs/5-3-binding-data"
-            },
-            {
-                "caption":"5.4. Creating Forms",
-                "url":"#/debug/3ae10b26072cad5b/docs/5-4-creating-forms"
-            },
-            {
-                "caption":"5.5. UI Pages",
-                "url":"#/debug/3ae10b26072cad5b/docs/5-5-ui-pages",
-                "children":[
-                    {
-                        "caption":"5.5.1. Securing Pages with JWT",
-                        "url":"#/debug/3ae10b26072cad5b/docs/5-5-1-securing-pages-jwt"
-                    }
-                ]
-            },
-            {
-                "caption":"5.6. UI Components",
-                "url":"#/debug/3ae10b26072cad5b/docs/5-6-ui-components"
-            }
-        ]
-    },
-    {
-        "caption":"6. Using Low-Coding for Frontend",
-        "url":"#/debug/3ae10b26072cad5b/docs/6-1-html-components",
-        "children":[
-            {
-                "caption":"6.1. Creating HTML Components with Low-Coding",
-                "url":"#/debug/3ae10b26072cad5b/docs/6-1-html-components"
-            },
-            {
-                "caption":"6.2. Creating Blocks with Low-Coding",
-                "url":"#/debug/3ae10b26072cad5b/docs/6-2-low-coding-blocks"
-            },
-            {
-                "caption":"6.3. Injecting Custom Scripts",
-                "url":"#/debug/3ae10b26072cad5b/docs/6-3-injecting-scripts"
-            }
-        ]
+        "caption":"HTML SDK Tutorial",
+        "url":"#/debug/3ae10b26072cad5b/docs/4-htmlsdk",
+        "children":[]
     }
 ]

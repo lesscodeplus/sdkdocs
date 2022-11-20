@@ -1,5 +1,3 @@
-Node: We are still in the process of updating this part of the documentation. Please bear with us!
-
 # JavaScript SDK Reference
 
 For your UI Application, you can use JavaScript SDK to handle edge cases and to develop custom blocks. 

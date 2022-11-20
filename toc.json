@@ -1,0 +1,46 @@
+[
+    {
+        "caption":"1. Getting Started with the IDE",
+        "url":"#/debug/3ae10b26072cad5b/docs/home"
+    },
+    {
+        "caption":"2. IDE Features Overview",
+        "url":"#/debug/3ae10b26072cad5b/docs/ide-overview"
+    },
+    {
+        "caption":"3. Block Editor Guidelines",
+        "url":"#/debug/3ae10b26072cad5b/docs/block-editor"
+    },
+    {
+        "caption":"4. Using the Schema Editor",
+        "url":"#/debug/3ae10b26072cad5b/docs/schema-editor"
+    },
+    {
+        "caption":"5. Script Editor",
+        "url":"#/debug/3ae10b26072cad5b/docs/script-editor"
+    },
+    {
+        "caption":"6. API Deployment and Configuration",
+        "url":"#/debug/3ae10b26072cad5b/docs/deployment"
+    },
+    {
+        "caption":"7. Running and Debugging",
+        "url":"#/debug/3ae10b26072cad5b/docs/run"
+    },
+    {
+        "caption":"8. Auto API Doc Generator",
+        "url":"#/debug/3ae10b26072cad5b/docs/api-doc"
+    },
+    {
+        "caption":"9. JSON-Relational Mapping",
+        "url":"#/debug/3ae10b26072cad5b/docs/jr-mapping"
+    },
+    {
+        "caption":"10. Type System in NoCodeXpress Engine",
+        "url":"#/debug/3ae10b26072cad5b/docs/type-system"
+    },
+    {
+        "caption":"11. Managing your Profile",
+        "url":"#/debug/3ae10b26072cad5b/docs/profile"
+    }
+]

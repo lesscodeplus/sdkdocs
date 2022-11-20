@@ -1,0 +1,46 @@
+[
+    {
+        "caption":"1. Getting Started with the IDE",
+        "url":"#/docs/home"
+    },
+    {
+        "caption":"2. IDE Features Overview",
+        "url":"#/docs/ide-overview"
+    },
+    {
+        "caption":"3. Block Editor Guidelines",
+        "url":"#/docs/block-editor"
+    },
+    {
+        "caption":"4. Using the Schema Editor",
+        "url":"#/docs/schema-editor"
+    },
+    {
+        "caption":"5. Script Editor",
+        "url":"#/docs/script-editor"
+    },
+    {
+        "caption":"6. API Deployment and Configuration",
+        "url":"#/docs/deployment"
+    },
+    {
+        "caption":"7. Running and Debugging",
+        "url":"#/docs/run"
+    },
+    {
+        "caption":"8. Auto API Doc Generator",
+        "url":"#/docs/api-doc"
+    },
+    {
+        "caption":"9. JSON-Relational Mapping",
+        "url":"#/docs/jr-mapping"
+    },
+    {
+        "caption":"10. Type System in NoCodeXpress Engine",
+        "url":"#/docs/type-system"
+    },
+    {
+        "caption":"11. Managing your Profile",
+        "url":"#/docs/profile"
+    }
+]
